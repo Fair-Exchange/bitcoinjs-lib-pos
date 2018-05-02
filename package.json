@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoinjs-lib.git"
+    "url": "https://github.com/Fair-Exchange/bitcoinjs-lib-pos.git"
   },
   "dependencies": {
     "bigi": "^1.4.0",
